@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**mrsaurabhjain/mrsaurabhjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Saurabh, a Global Data Analytics & Insights Analyst based in London.
 
-Here are some ideas to get you started:
+I design scalable BI solutions using Power BI and advanced analytics techniques to uncover trends, optimize performance, and drive growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Focus Areas:
+
+1. Business Intelligence & Data Visualization
+
+2. Sales & Market Share Analytics
+
+3. Data Cleaning & Transformation
+
+Always learning. Always building. Always improving.
